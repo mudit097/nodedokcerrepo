@@ -2,6 +2,7 @@
 repo for basic node docker task
 ---
 use command for docker are =>
+---
  $ docker build -t node-webapp .   
  $ docker logs (name of container) 
 
